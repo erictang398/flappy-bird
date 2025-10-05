@@ -17,7 +17,3 @@ Use the space bar or left mouse button to make the bird flap its wings and fly u
 <h2> Credits </h2>
 
 * Assets in game created by Mark Brown
-
-<h2> Conclusion </h2>
-
-Working on this project was a great experience, especially as a first project using Unity. I learned a lot about game development and had fun bringing this classic game to life. This project was a fantastic introduction to Unity and I can't wait to see what other projects I'll be able to create with it in the future.
